@@ -1,5 +1,5 @@
 # 💫 About Me:
-I am 3rd year student at Faculty of Informatics, Masaryk University. <br>I am currently working on AI-driven security hardening for fedora based<br>on CIS1 benchmarks for my bachelor's thesis. I am also currently expanding<br>my knowledge about navigation in Linux kernel, advanced c++ and advanced<br>Linux administration.
+I am 3rd year student at Faculty of Informatics, Masaryk University. <br>I am currently working on AI-driven security hardening tool for fedora based<br>on CIS1 benchmarks for my bachelor's thesis. I am also currently expanding<br>my knowledge about navigation in Linux kernel, advanced c++ and advanced<br>Linux administration.
 
 
 ## 🌐 Socials:
